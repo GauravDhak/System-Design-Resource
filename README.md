@@ -32,3 +32,4 @@ Happy learning and designing!
 - [Gossip Protocol](http://highscalability.com/blog/2023/7/16/gossip-protocol-explained.html)
 - [Consistency in Distributed Systems](https://www.cl.cam.ac.uk/teaching/0910/ConcDistS/11a-cons-tx.pdf)
 - [Quorum](https://www.educative.io/answers/what-is-quorum-in-distributed-systems)
+- [Rate Limiting Algorithm in Java](https://www.codereliant.io/rate-limiting-deep-dive/)
