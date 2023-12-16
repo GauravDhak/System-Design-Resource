@@ -25,11 +25,10 @@ This repository is licensed under the MIT License - feel free to use and share t
 
 Happy learning and designing!
 
-[System Design Blog](https://gaurav789.hashnode.dev)
-[B-Tree vs LSM-Tree](https://tikv.org/deep-dive/key-value-engine/b-tree-vs-lsm/)
-[System Design Guied 2023](https://www.educative.io/blog/complete-guide-to-system-design)
-[Microservices and SOA](https://www.baeldung.com/cs/microservices-soa-differences)
-[Gossip Protocol](http://highscalability.com/blog/2023/7/16/gossip-protocol-explained.html)
-[Consistency in Distributed Systems](https://www.cl.cam.ac.uk/teaching/0910/ConcDistS/11a-cons-tx.pdf)
-[Quorum](https://www.educative.io/answers/what-is-quorum-in-distributed-systems)
-
+- [System Design Blog](https://gaurav789.hashnode.dev)
+- [B-Tree vs LSM-Tree](https://tikv.org/deep-dive/key-value-engine/b-tree-vs-lsm/)
+- [System Design Guide 2023](https://www.educative.io/blog/complete-guide-to-system-design)
+- [Microservices and SOA](https://www.baeldung.com/cs/microservices-soa-differences)
+- [Gossip Protocol](http://highscalability.com/blog/2023/7/16/gossip-protocol-explained.html)
+- [Consistency in Distributed Systems](https://www.cl.cam.ac.uk/teaching/0910/ConcDistS/11a-cons-tx.pdf)
+- [Quorum](https://www.educative.io/answers/what-is-quorum-in-distributed-systems)
