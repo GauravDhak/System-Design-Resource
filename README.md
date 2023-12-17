@@ -39,3 +39,4 @@ Happy learning and designing!
 - [What is API](https://www.postman.com/what-is-an-api/)
 - [API Architecture(Video)](https://youtu.be/4vLxWqE94l4?si=iM8duvexWHAJiMFv)
 - [API Architecture](https://nordicapis.com/top-architectural-styles-for-apis-in-2023/)
+- [JSON Web Token](https://jwt.io/introduction)
