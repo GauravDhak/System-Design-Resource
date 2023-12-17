@@ -40,3 +40,6 @@ Happy learning and designing!
 - [API Architecture(Video)](https://youtu.be/4vLxWqE94l4?si=iM8duvexWHAJiMFv)
 - [API Architecture](https://nordicapis.com/top-architectural-styles-for-apis-in-2023/)
 - [JSON Web Token](https://jwt.io/introduction)
+- [DataBase Indexing](https://youtu.be/3G293is403I?si=uD4VbVLsZ9joqVt5)
+- [Storage Devices](https://experience.dropbox.com/get-organized/storage-devices)
+- [Redis vs Dragonfly DB ](https://gaurav789.hashnode.dev/redis-vs-dragonfly-db-exploring-in-memory-titans)
