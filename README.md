@@ -3,7 +3,7 @@ This repository is a comprehensive collection of resources aimed at helping soft
 Overview
 This repository is a comprehensive collection of resources aimed at helping software engineers and system architects enhance their skills in system design. Whether you're a seasoned professional looking to deepen your understanding or a beginner eager to explore the world of scalable and efficient systems, this curated list has something for everyone.
 
-What's Inside ?
+# What's Inside ?
 
 Educational Materials: Dive into carefully selected articles, tutorials, and videos covering fundamental concepts, advanced techniques, and real-world case studies in system design.
 Interview Preparation: Find resources tailored for system design interviews, including common patterns, best practices, and strategies to tackle design problems.
@@ -23,7 +23,7 @@ Connect with us on Slack to join discussions and ask questions.
 License
 This repository is licensed under the MIT License - feel free to use and share these resources in accordance with the terms outlined in the license.
 
-Happy learning and designing!
+ # Happy learning and designing!
 
 - [System Design Blog](https://gaurav789.hashnode.dev)
 - [B-Tree vs LSM-Tree](https://tikv.org/deep-dive/key-value-engine/b-tree-vs-lsm/)
@@ -34,6 +34,8 @@ Happy learning and designing!
 - [Quorum](https://www.educative.io/answers/what-is-quorum-in-distributed-systems)
 - [Rate Limiting Algorithm in Java](https://www.codereliant.io/rate-limiting-deep-dive/)
 - [Load Balancing Algorithm](https://aws.amazon.com/what-is/load-balancing/)
+- [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem)
+- [CAP therorem in depth](https://gaurav789.hashnode.dev/from-theory-to-reality-how-google-spanner-challenges-the-cap-theorem)
 - [Caching](https://aws.amazon.com/caching/)
 - [Caching Mechanism](https://hackernoon.com/5-caching-mechanisms-to-speed-up-your-application)
 - [What is API](https://www.postman.com/what-is-an-api/)
