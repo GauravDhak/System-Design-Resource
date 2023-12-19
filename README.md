@@ -54,3 +54,6 @@ This repository is licensed under the MIT License - feel free to use and share t
 - [Idempotency in Rest API](https://youtu.be/J2IcD9FZvZU?si=Z0KthQFbQ3JhmZbe)
 - [Database Sharding and Partitiong ](https://youtu.be/wXvljefXyEo?si=BNhLuZhy-b_ahxzf)
 - [HDD vs SSD ](https://www.geeksforgeeks.org/difference-between-hard-disk-drive-hdd-and-solid-state-drive-ssd/)
+- [What is a CDN](https://aws.amazon.com/what-is/cdn/)
+- [Latency and Throughput](https://javachallengers.com/latency-and-throughput/)
+- [Latency vs Throughput](https://gaurav789.hashnode.dev/beyond-the-basics-advanced-techniques-for-low-latency-and-high-throughput-systems)
