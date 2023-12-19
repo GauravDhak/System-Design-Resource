@@ -45,3 +45,8 @@ This repository is licensed under the MIT License - feel free to use and share t
 - [DataBase Indexing](https://youtu.be/3G293is403I?si=uD4VbVLsZ9joqVt5)
 - [Storage Devices](https://experience.dropbox.com/get-organized/storage-devices)
 - [Redis vs Dragonfly DB ](https://gaurav789.hashnode.dev/redis-vs-dragonfly-db-exploring-in-memory-titans)
+- [TLS/SSL Hnadshake](https://sematext.com/glossary/ssl-tls-handshake/)
+- [TCP 3-Way Handshake Process](https://www.geeksforgeeks.org/tcp-3-way-handshake-process/)
+- [http/https Working](https://www.geeksforgeeks.org/explain-working-of-https/)
+- [Various Networking Protocols](https://www.forbes.com/advisor/business/types-network-protocols/)
+- [Client Server Architecture ](https://www.interviewbit.com/blog/client-server-architecture/)
