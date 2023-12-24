@@ -26,6 +26,8 @@ This repository is licensed under the MIT License - feel free to use and share t
  # Happy learning and designing!
 
 - [System Design Blog](https://gaurav789.hashnode.dev)
+- [System Design Basic Terminology](https://www.geeksforgeeks.org/important-key-concepts-and-terminologies-learn-system-design/?ref=lbp)
+- [Functional and Non-Functional Requirements](https://www.geeksforgeeks.org/functional-vs-non-functional-requirements/?ref=roadmap)
 - [B-Tree vs LSM-Tree](https://tikv.org/deep-dive/key-value-engine/b-tree-vs-lsm/)
 - [System Design Guide 2023](https://www.educative.io/blog/complete-guide-to-system-design)
 - [Microservices and SOA](https://www.baeldung.com/cs/microservices-soa-differences)
